@@ -1,20 +1,82 @@
-<img align="right" alt="Coding" width="400" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dgdq8br-09cc7ad6-a021-47a5-b0e0-917b12b0f7a7.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGdkcThici0wOWNjN2FkNi1hMDIxLTQ3YTUtYjBlMC05MTdiMTJiMGY3YTcuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.tqRMtE-b2QiI2nnefNxSDMJvZCcYqFmq2ccg_Xfzqb8">
-
-
 <h1 align="center">Hi 👋, I'm Mak</h1>
-<h3 align="center">A aspiring frontend developer and cybersecurity	&#x1f1f5;&#x1f1ed;</h3>
+<h3 align="center">Aspiring Frontend Developer | UI/UX & Cybersecurity Enthusiast 🇵🇭</h3>
 
-
-
-
-
-- 📫 How to reach me **markandremuyna31@gmail.com**
-
-- 🤟 **Eyy ka muna**
-
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
+---
 
+## 👨‍💻 About Me
 
+I'm **Mark Andrei B. Muyna**, a BSIT student at **Polytechnic University of the Philippines – Santa Maria, Bulacan**, actively seeking an **internship** where I can apply my skills and grow as a developer.
+
+I focus on **frontend development** with strong foundations in **HTML, CSS, JavaScript, and React**, and growing experience in **3D visualization (Three.js)** and **UI/UX design**.  
+I'm also exploring **cybersecurity fundamentals** and **secure coding practices** to build more resilient applications.
+
+---
+
+## 🛠 Languages & Tools
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="45"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45"/>
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+### 🛍 Salesforce E-Commerce Platform — *HandsMen Threads*
+
+- Custom objects for product & order management  
+- Lightning Web Components (LWC) UI  
+- Apex-powered receipt automation  
+- AI assistant for user guidance  
+- Real-time dashboards & inventory monitoring  
+- Data privacy & security compliance  
+
+**Tech:** Salesforce • LWC • Apex • SOQL • AI Integration
+
+---
+
+### 🖥 Full-Stack PC E-Commerce — *NovaTech PH*
+
+- Interactive 3D PC builder using Three.js  
+- React frontend + backend integration  
+- Nova AI assistant with smart recommendations  
+- Automated receipt generation & order tracking  
+- Simulated secure transaction flow  
+
+**Tech:** React • Three.js • Node.js • MongoDB • JavaScript • AI Integration  
+🔗 Live Demo: https://nove-tech.xyz/
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Information Technology**  
+Polytechnic University of the Philippines — Santa Maria, Bulacan  
+*Currently Enrolled*
+
+---
+
+## 📬 Get In Touch
+
+📱 Phone: **0999-813-6163**  
+📧 Email: **markandreimuyna31@gmail.com**  
+💻 GitHub: [github.com/muynamarkandrei](https://github.com/muynamarkandrei)
+
+---
+
+> 🚀 Open to **Internship Opportunities** and **Freelance Projects**
+
+© 2026 Mark Andrei B. Muyna. All rights reserved.
